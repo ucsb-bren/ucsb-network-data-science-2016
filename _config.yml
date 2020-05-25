@@ -1,7 +1,7 @@
 exclude:
   - vendor
 current_term: "2016"
-git_owner: bbest
+git_owner: ucsb-bren
 git_repo: ucsb-network-data-science-2016
 markdown: kramdown
 kramdown:
